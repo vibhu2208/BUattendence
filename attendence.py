@@ -4,7 +4,7 @@ import requests
 import os
 from streamlit_qrcode_scanner import qrcode_scanner
 
-#load_dotenv()           # Load the environment variables            
+#load_dotenv()           # Load the environment variables        #kjsdbkj     
 
 st.title('attendance')
 
