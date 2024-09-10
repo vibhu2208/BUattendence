@@ -1,0 +1,1 @@
+from streamlit_qrcode_scanner import qrcode_scanner
