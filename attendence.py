@@ -2,11 +2,11 @@ import streamlit as st
 import requests
 #from dotenv import load_dotenv
 import os
-#from streamlit_qrcode_scanner import qrcode_scanner
+from streamlit_qrcode_scanner import qrcode_scanner
 
 #load_dotenv()           # Load the environment variables            
 
-st.title('Attendance')
+st.title('attendance')
 
 
 def get_cookies(username,password):
